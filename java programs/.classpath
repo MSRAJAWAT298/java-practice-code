@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/jdbc.jar/jdbc/com/mysql/jdbc/Driver.class"/>
+	<classpathentry kind="lib" path="D:/soft/mysql/mysql-connector-odbc-5.1.5-win32=3.msi"/>
+	<classpathentry kind="lib" path="D:/soft/mysql/mysql.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
